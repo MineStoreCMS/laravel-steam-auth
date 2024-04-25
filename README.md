@@ -13,7 +13,7 @@ This package is a Laravel 5 service provider which provides support for Steam Op
 ## Installation
 #### Via Composer
 ```bash
-composer require invisnik/laravel-steam-auth
+composer require teh9/laravel-steam-auth
 ```
 
 #### Steam API Key
@@ -29,7 +29,7 @@ STEAM_API_KEY=SomeKindOfAPIKey
 Publish the config file.
 
 ```
-php artisan vendor:publish --provider="Invisnik\LaravelSteamAuth\SteamServiceProvider"
+php artisan vendor:publish --provider="Teh9\LaravelSteamAuth\SteamServiceProvider"
 ```
 ## Usage example
 In `config/steam-auth.php`:
