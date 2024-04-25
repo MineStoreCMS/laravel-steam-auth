@@ -1,6 +1,6 @@
 <?php
 
-namespace Invisnik\LaravelSteamAuth;
+namespace Teh9\LaravelSteamAuth;
 
 use Illuminate\Support\Fluent;
 

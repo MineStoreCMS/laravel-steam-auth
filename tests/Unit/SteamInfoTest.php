@@ -1,9 +1,9 @@
 <?php
 
-namespace Invisnik\LaravelSteamAuth\Tests\Unit;
+namespace Teh9\LaravelSteamAuth\Tests\Unit;
 
-use Invisnik\LaravelSteamAuth\SteamInfo;
-use Invisnik\LaravelSteamAuth\Tests\TestCase;
+use Teh9\LaravelSteamAuth\SteamInfo;
+use Teh9\LaravelSteamAuth\Tests\TestCase;
 
 class SteamInfoTest extends TestCase
 {

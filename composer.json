@@ -1,5 +1,5 @@
 {
-    "name": "invisnik/laravel-steam-auth",
+    "name": "teh9/laravel-steam-auth",
     "description": "Laravel Steam Auth",
     "keywords": ["steam", "laravel", "auth"],
     "license": "MIT",
@@ -21,18 +21,18 @@
     },
     "autoload": {
         "psr-4": {
-            "Invisnik\\LaravelSteamAuth\\": "src"
+            "Teh9\\LaravelSteamAuth\\": "src"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Invisnik\\LaravelSteamAuth\\Tests\\": "tests"
+            "Teh9\\LaravelSteamAuth\\Tests\\": "tests"
         }
     },
     "extra": {
         "laravel": {
             "providers": [
-                "Invisnik\\LaravelSteamAuth\\SteamServiceProvider"
+                "Teh9\\LaravelSteamAuth\\SteamServiceProvider"
             ]
         }
     },
