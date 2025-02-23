@@ -1,5 +1,5 @@
 {
-    "name": "teh9/laravel-steam-auth",
+    "name": "minestorecms/laravel-steam-auth",
     "description": "Laravel Steam Auth",
     "keywords": ["steam", "laravel", "auth"],
     "license": "MIT",
